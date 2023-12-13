@@ -37,4 +37,4 @@ Os resultados destacam a eficácia do modelo BERT na tarefa de POS Tagging em po
 
 ## Como Executar
 
-Execute o notebook `POS_Tagging_Portuguese_BERT.ipynb` em um ambiente Jupyter para reproduzir os resultados.
+Execute o notebook `bert_postagging.ipynb` em um ambiente Jupyter para reproduzir os resultados.
